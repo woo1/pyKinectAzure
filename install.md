@@ -11,7 +11,7 @@ sudo apt-add-repository https://packages.microsoft.com/ubuntu/18.04/prod
 sudo apt-get update
 ````
 
-###설치
+### 설치
 ````buildoutcfg
 sudo apt install libk4abt1.1-dev
 ````
